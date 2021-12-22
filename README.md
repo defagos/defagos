@@ -8,3 +8,4 @@ Passionate iOS and tvOS developer since 2010, I focus on crafting delightful and
 - 🧰 I enjoy creating SDKs with simple, expressive and well documented APIs.
 - 💡 I share my knowledge through [in-depth technical articles I publish on my blog](https://defagos.github.io).
 - 👀 Wanna have a look at the code I write? Then check the repositories of the [application](https://github.com/SRGSSR/playsrg-apple) and [player](https://github.com/SRGSSR/srgletterbox-apple) I am working on, they are public!
+- ⬅️ Wanna get in touch? Then check the links on the left!
